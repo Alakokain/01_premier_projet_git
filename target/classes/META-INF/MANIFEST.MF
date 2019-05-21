@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EquipeProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: IN-NN-024
+Implementation-Vendor-Id: com.fr.adaming
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EquipeProject
+Created-By: Maven Integration for Eclipse
+
